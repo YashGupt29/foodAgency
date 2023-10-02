@@ -1,4 +1,4 @@
-.place {
+.plac {
   position: relative;
 }
 
@@ -66,6 +66,9 @@
 }
 .btn {
   margin-left: 50px;
+}
+button {
+  cursor: pointer;
 }
 #contact {
   background-color: white;
